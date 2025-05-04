@@ -2,5 +2,21 @@
   "extends": "./tsconfig.base.json",
   "compileOnSave": false,
   "files": [],
-  "references": []
+  "references": [
+    {
+      "path": "./apps"
+    },
+    {
+      "path": "./apps/react-demo-e2e"
+    },
+    {
+      "path": "./apps/react-demo"
+    },
+    {
+      "path": "./apps/vue-demo-e2e"
+    },
+    {
+      "path": "./apps/vue-demo"
+    }
+  ]
 }

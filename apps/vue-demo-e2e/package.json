@@ -1,0 +1,10 @@
+{
+  "name": "@ng-react-vue/vue-demo-e2e",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "implicitDependencies": [
+      "@ng-react-vue/vue-demo"
+    ]
+  }
+}
